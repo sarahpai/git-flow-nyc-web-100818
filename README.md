@@ -6,9 +6,17 @@
 * Get comfortable creating, merging, pushing, and pulling branches
 * Resolve merge conflicts
 
+<<<<<<< HEAD
 ##Lauren here:
 (╯°□°）╯︵ ┻━┻
 
+=======
+## Lauren Here:
+ 
+(╯°□°）╯︵ ┻━┻
+ 
+ 
+>>>>>>> add-fireflies
 ## Instructions
 
 Remember to fork and clone this lab if you haven't already.
